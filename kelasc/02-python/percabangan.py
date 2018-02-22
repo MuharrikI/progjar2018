@@ -7,4 +7,4 @@ elif a > 75 and a <= 80 :
 elif a >= 70 and a <=75 :
     print("B")
 else :
-    print("E")
+    print("C")

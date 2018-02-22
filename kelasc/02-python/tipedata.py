@@ -10,3 +10,11 @@ print(d)
 
 e = str(a) + c
 print(e)
+
+matakuliah = "Pemrograman Jaringan"
+
+f = "0.5"
+angkaF = float(f)
+g = "10"
+angkaG = int(g)
+h = f + g
